@@ -1,4 +1,4 @@
-name: Remote SSH
+name: Remote SSH Pull
 on: [push]
 jobs:
 
